@@ -1,4 +1,4 @@
-# imageClassification-RN
+# Image Classification React Native
 
 ### Prerequisites
 - Nodejs >= 10.x.x
@@ -7,7 +7,7 @@
 ### Clone and Use 
 1. Clone this project
 ```markdown
-git clone https://github.com/linhlinhle997/imageClassification-RN.git
+https://github.com/linhlinhle997/image-classification-react-native.git
 ```
 2. `cd imageClassification-RN` and install module expo in project with yarn
 ```markdown
